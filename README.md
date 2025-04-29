@@ -1,13 +1,15 @@
 <h1 align="center">Hi there, I'm Prabesh Bhandari 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Open+Source+Contributor;Tech+Educator;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Fullstack+Developer;;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 ---
 
 🌟 **About Me**  
 🎓 I'm a passionate fullstack developer, currently learning Web Development.  
+
 🚀 My goal is to build scalable fullstack projects.
+
 💼 Currently focused on: JavaScript, React, Node.js, MongoDB, and building real-world apps.
 
 ---
@@ -44,7 +46,7 @@
 
 💬 **Let's Connect!**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhandariprabesh27/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhandariprabesh27/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge)](https://your-portfolio.com)
 
 ---
